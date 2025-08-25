@@ -5,6 +5,7 @@ export default function Layout({children} : Readonly<{children:React.ReactNode}>
     <main className="text-2xl">
       {/*<NavBar/>*/}
       {children}
+      {/*new com*/}
     </main>
   )
 }
